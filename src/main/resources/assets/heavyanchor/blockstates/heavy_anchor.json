@@ -1,0 +1,9 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "heavyanchor:block/heavy_anchor"
+      }
+    }
+  ]
+}

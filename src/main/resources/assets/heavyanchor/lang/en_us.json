@@ -1,0 +1,17 @@
+{
+  "item.heavyanchor.heavy_anchor": "Heavy Anchor",
+  "entity.heavyanchor.heavy_anchor": "Heavy Anchor",
+  "block.heavyanchor.heavy_anchor": "Heavy Anchor",
+  "heavyanchor.goggle.title": "Heavy Anchor",
+  "heavyanchor.goggle.heavy": "HEAVY - 10,000 kpg",
+  "heavyanchor.goggle.light": "LIGHT - 0.25 kpg",
+  "heavyanchor.goggle.manual": "Control: Frequency",
+  "heavyanchor.goggle.auto": "Control: Automatic",
+  "heavyanchor.goggle.connected": "Rope connected",
+  "heavyanchor.goggle.disconnected": "No rope connected",
+  "heavyanchor.menu.title": "Anchor Frequencies",
+  "heavyanchor.menu.on": "ON",
+  "heavyanchor.menu.off": "OFF",
+  "heavyanchor.goggle.actual": "Sable mass: %s kpg",
+  "heavyanchor.goggle.releasing": "RELEASING WEIGHT - %s s left"
+}

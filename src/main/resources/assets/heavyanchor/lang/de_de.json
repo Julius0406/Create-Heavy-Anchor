@@ -1,0 +1,17 @@
+{
+  "item.heavyanchor.heavy_anchor": "Schwerer Anker",
+  "entity.heavyanchor.heavy_anchor": "Schwerer Anker",
+  "block.heavyanchor.heavy_anchor": "Schwerer Anker",
+  "heavyanchor.goggle.title": "Schwerer Anker",
+  "heavyanchor.goggle.heavy": "VERANKERT - 10.000 kpg",
+  "heavyanchor.goggle.light": "LEICHT - 0,25 kpg",
+  "heavyanchor.goggle.manual": "Steuerung: Frequenz",
+  "heavyanchor.goggle.auto": "Steuerung: Automatisch",
+  "heavyanchor.goggle.connected": "Seil verbunden",
+  "heavyanchor.goggle.disconnected": "Kein Seil verbunden",
+  "heavyanchor.menu.title": "Anker-Frequenzen",
+  "heavyanchor.menu.on": "AN",
+  "heavyanchor.menu.off": "AUS",
+  "heavyanchor.goggle.actual": "Sable-Masse: %s kpg",
+  "heavyanchor.goggle.releasing": "GEWICHT SINKT - noch %s s"
+}

@@ -1,0 +1,12 @@
+.gradle/
+build/
+run/
+.idea/
+.vscode/
+*.log
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+libs/*.jar
+backups/
+.DS_Store

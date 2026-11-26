@@ -1,0 +1,191 @@
+{
+  "selector": "heavyanchor:heavy_anchor",
+  "priority": 100,
+  "properties": {
+    "sable:mass": 0.25,
+    "sable:volume": 0.05,
+    "sable:restitution": 0.0
+  },
+  "overrides": {
+    "heavy=true,release=0": {
+      "sable:mass": 10000.0
+    },
+    "heavy=true,release=1": {
+      "sable:mass": 9991.759465
+    },
+    "heavy=true,release=2": {
+      "sable:mass": 9967.408222
+    },
+    "heavy=true,release=3": {
+      "sable:mass": 9927.501813
+    },
+    "heavy=true,release=4": {
+      "sable:mass": 9872.595778
+    },
+    "heavy=true,release=5": {
+      "sable:mass": 9803.24566
+    },
+    "heavy=true,release=6": {
+      "sable:mass": 9720.007
+    },
+    "heavy=true,release=7": {
+      "sable:mass": 9623.43534
+    },
+    "heavy=true,release=8": {
+      "sable:mass": 9514.086222
+    },
+    "heavy=true,release=9": {
+      "sable:mass": 9392.515187
+    },
+    "heavy=true,release=10": {
+      "sable:mass": 9259.277778
+    },
+    "heavy=true,release=11": {
+      "sable:mass": 9114.929535
+    },
+    "heavy=true,release=12": {
+      "sable:mass": 8960.026
+    },
+    "heavy=true,release=13": {
+      "sable:mass": 8795.122715
+    },
+    "heavy=true,release=14": {
+      "sable:mass": 8620.775222
+    },
+    "heavy=true,release=15": {
+      "sable:mass": 8437.539062
+    },
+    "heavy=true,release=16": {
+      "sable:mass": 8245.969778
+    },
+    "heavy=true,release=17": {
+      "sable:mass": 8046.62291
+    },
+    "heavy=true,release=18": {
+      "sable:mass": 7840.054
+    },
+    "heavy=true,release=19": {
+      "sable:mass": 7626.81859
+    },
+    "heavy=true,release=20": {
+      "sable:mass": 7407.472222
+    },
+    "heavy=true,release=21": {
+      "sable:mass": 7182.570438
+    },
+    "heavy=true,release=22": {
+      "sable:mass": 6952.668778
+    },
+    "heavy=true,release=23": {
+      "sable:mass": 6718.322785
+    },
+    "heavy=true,release=24": {
+      "sable:mass": 6480.088
+    },
+    "heavy=true,release=25": {
+      "sable:mass": 6238.519965
+    },
+    "heavy=true,release=26": {
+      "sable:mass": 5994.174222
+    },
+    "heavy=true,release=27": {
+      "sable:mass": 5747.606313
+    },
+    "heavy=true,release=28": {
+      "sable:mass": 5499.371778
+    },
+    "heavy=true,release=29": {
+      "sable:mass": 5250.02616
+    },
+    "heavy=true,release=30": {
+      "sable:mass": 5000.125
+    },
+    "heavy=true,release=31": {
+      "sable:mass": 4750.22384
+    },
+    "heavy=true,release=32": {
+      "sable:mass": 4500.878222
+    },
+    "heavy=true,release=33": {
+      "sable:mass": 4252.643687
+    },
+    "heavy=true,release=34": {
+      "sable:mass": 4006.075778
+    },
+    "heavy=true,release=35": {
+      "sable:mass": 3761.730035
+    },
+    "heavy=true,release=36": {
+      "sable:mass": 3520.162
+    },
+    "heavy=true,release=37": {
+      "sable:mass": 3281.927215
+    },
+    "heavy=true,release=38": {
+      "sable:mass": 3047.581222
+    },
+    "heavy=true,release=39": {
+      "sable:mass": 2817.679562
+    },
+    "heavy=true,release=40": {
+      "sable:mass": 2592.777778
+    },
+    "heavy=true,release=41": {
+      "sable:mass": 2373.43141
+    },
+    "heavy=true,release=42": {
+      "sable:mass": 2160.196
+    },
+    "heavy=true,release=43": {
+      "sable:mass": 1953.62709
+    },
+    "heavy=true,release=44": {
+      "sable:mass": 1754.280222
+    },
+    "heavy=true,release=45": {
+      "sable:mass": 1562.710938
+    },
+    "heavy=true,release=46": {
+      "sable:mass": 1379.474778
+    },
+    "heavy=true,release=47": {
+      "sable:mass": 1205.127285
+    },
+    "heavy=true,release=48": {
+      "sable:mass": 1040.224
+    },
+    "heavy=true,release=49": {
+      "sable:mass": 885.320465
+    },
+    "heavy=true,release=50": {
+      "sable:mass": 740.972222
+    },
+    "heavy=true,release=51": {
+      "sable:mass": 607.734813
+    },
+    "heavy=true,release=52": {
+      "sable:mass": 486.163778
+    },
+    "heavy=true,release=53": {
+      "sable:mass": 376.81466
+    },
+    "heavy=true,release=54": {
+      "sable:mass": 280.243
+    },
+    "heavy=true,release=55": {
+      "sable:mass": 197.00434
+    },
+    "heavy=true,release=56": {
+      "sable:mass": 127.654222
+    },
+    "heavy=true,release=57": {
+      "sable:mass": 72.748188
+    },
+    "heavy=true,release=58": {
+      "sable:mass": 32.841778
+    },
+    "heavy=true,release=59": {
+      "sable:mass": 8.490535
+    }
+  }
+}
